@@ -1,5 +1,6 @@
-# 
 <h1 align="center">:movie_camera: Dotnet Core DIO Series</h1>
+
+## :computer: Projeto
 
 Aplicação console desenvolvida para fins acadêmicos com o objetivo de simular o uso de um CRUD, o projeto desenvolvido no lab [Criando um APP simples de cadastro de séries em .NET](https://digitalinnovation.one/) da Digital Innovation One.
 
